@@ -17,3 +17,14 @@ Input
 Output
 2 3.5
 '''
+import sys
+import math
+
+
+x_1, y_1 = [int(i) for i in input().split()]
+x_2, y_2 = [int(i) for i in input().split()]
+
+xmedia = float((x_1+x_2)/2)
+ymedia = float((y_1+y_2)/2)
+
+print('%g'%(xmedia), '%g'%(ymedia))
