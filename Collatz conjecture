@@ -1,0 +1,10 @@
+The Collatz conjecture is a opened mathematics problem. Given a number N, the repetition of this operation will always eventually reach the loop 1 ⇒ 4 ⇒2 ⇒1 ...
+* If N is even, N becomes N/2
+* If N is odd, N becomes 3*N+1
+
+Can you try it with this numbers and print the number of steps to reach 1?
+
+n=int(input())
+s=0
+while n!=1: n=n/2 if n%2==0 else 3*n+1;s+=1;
+print(s)
