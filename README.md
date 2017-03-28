@@ -1,5 +1,6 @@
-# CodingGame - Solutions
+# CodingGame - Solutions 
 
+[./Nebulino/CodingGame-Solutions/](https://nebulino.github.io/CodingGame-Solutions/) 
 
 I'll going to post some of my solutions on CodingGame.com
 
@@ -39,4 +40,4 @@ For Other stuff or infos contact me:
 **I'll gonna contact you back :D**
 
    ~ Nebulino
-   [./CodingGame-Solutions/](https://nebulino.github.io/CodingGame-Solutions/) 
+[./Nebulino/CodingGame-Solutions/](https://nebulino.github.io/CodingGame-Solutions/) 
