@@ -8,3 +8,6 @@ print (int(s,2))
 
 print("".join([bin(int(i))[:2].zfill(8) for i in input().split(".")])
       
+# or
+      
+print(int("".join([bin(int(i))[:2].zfill(8) for i in input().split(".")]), 2))
