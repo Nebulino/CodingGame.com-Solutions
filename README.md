@@ -40,4 +40,7 @@ For Other stuff or infos contact me:
 **I'll gonna contact you back :D**
 
    ~ Nebulino
-[./Nebulino/CodingGame-Solutions/](https://nebulino.github.io/CodingGame-Solutions/) 
+[./Nebulino/CodingGame-Solutions/](https://nebulino.github.io/CodingGame-Solutions/)
+
+## TODO
+Sort all files and set categories
