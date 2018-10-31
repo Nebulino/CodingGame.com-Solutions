@@ -2,7 +2,7 @@
 
 [./Nebulino/CodingGame-Solutions/](https://nebulino.github.io/CodingGame-Solutions/) 
 
-I'll going to post some of my solutions on CodingGame.com
+I'll be going to post some of my solutions on CodingGame.com
 
 March/24/2017 Next time I'll gonna create sub folders! :D
 
@@ -34,7 +34,7 @@ For Other my projects, visit:
 
 For Other stuff or infos contact me:
 
-1. At Telegram via: @Nebulino
+1. On Telegram via: @Nebulino
 2. Send a Message, _on telegram_, to @NebulinoBOT with `/dm <your message>`
 
 **I'll gonna contact you back :D**
